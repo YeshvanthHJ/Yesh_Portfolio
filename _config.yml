@@ -1,6 +1,17 @@
 title: Yeshvanth H J
 logo: /assets/img/logo.png
 
-description: I' working on the Data science, Big Data, machine learning & NLP related Problems and Data Analytics & Working on visulation tools like Power BI, Cognos BI.
+description:
+  <p align="center">
+  <a href="">Resume</a> |
+  <a href="https://linkedin.com/in/yeshvanth-h-j-82531915a/">LinkedIn</a> |
+  <a href="https://yeshvanthhj.github.io/Yesh_Portfolio/">GitHub</a>
+  
+  <br>   
+
+  I'm working on the Data science, Big Data, machine learning & NLP related Problems.
+  Also Data Analytics & Working on visulation tools like Power BI, Cognos BI.
+  <br>
+  </p>
 
 theme: jekyll-theme-minimal
